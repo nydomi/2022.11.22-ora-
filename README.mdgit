@@ -1,0 +1,1 @@
+"# 2022.11.22-ora-"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/nydomi/2022.11.22-ora-.gitgit push -u origin main
